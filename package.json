@@ -1,0 +1,15 @@
+{
+  "name": "discord-ping-pong",
+  "version": "0.0.1",
+  "description": "AHAHA",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sosaki12lox",
+  "license": "ISC",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^16.4.5"
+  }
+}
